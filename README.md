@@ -1,10 +1,10 @@
 # cmodoro
 
-A Clojure library designed to ... well, that part is up to you.
+This is a breakable toy for learning Clojure. The concept is to create a command line tool that will make it ridiculously easy to manage daily [Pomodoro cycles](http://en.wikipedia.org/wiki/Pomodoro_Technique). Use at your own risk.
 
 ## Usage
 
-FIXME
+TBA
 
 ## License
 
